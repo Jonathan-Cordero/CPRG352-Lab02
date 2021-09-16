@@ -20,6 +20,8 @@ public class Part4 {
         System.out.println(text);
         
         System.out.println("This is a test for the commit & push.");
+        
+        System.out.println("This is a test for the commit & push.");
     }
     
 }
